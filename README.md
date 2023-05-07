@@ -8,3 +8,6 @@ https://tankubopa777.github.io/module3-solution/
 
 You can see my module 4 solution here.
 https://tankubopa777.github.io/module4-solution/
+
+You can see my module 5 solution here.
+https://tankubopa777.github.io/module5-solution/
